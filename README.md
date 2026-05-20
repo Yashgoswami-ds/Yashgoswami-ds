@@ -86,15 +86,14 @@ Full-stack application using React, Spring Boot, JWT Authentication & MySQL.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Yashgoswami-ds&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashgoswami-ds&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashgoswami-ds&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashgoswami-ds&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yashgoswami-ds&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Yashgoswami-ds&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
