@@ -91,9 +91,6 @@ Full-stack application using React, Spring Boot, JWT Authentication & MySQL.
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashgoswami-ds&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Yashgoswami-ds&theme=tokyonight&hide_border=true" />
-</p>
 ---
 
 ## 🌐 Connect With Me
