@@ -1,3 +1,4 @@
+---
 <h1 align="center">Hi, I'm Yash Goswami</h1>
 
 <h3 align="center">
@@ -27,6 +28,7 @@ and real-world applications using AI, Java, and modern web technologies.
 -  Exploring **Deep Learning, NLP, System Design & Scalable Architectures**
 -  Interested in solving real-world problems through intelligent software
 
+---
 ---
 
 ## 🛠️ Tech Stack
@@ -66,27 +68,13 @@ NumPy • Pandas • Scikit-Learn • Transformers • NLP • Deep Learning
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-🔹 **AI Knowledge Assistant**  
-AI-powered knowledge retrieval system using semantic search, vector embeddings, Flask & NLP.
-
-🔹 **Credit Card Fraud Detection**  
-ML-powered fraud detection pipeline with FastAPI, Streamlit & real-time predictions.
-
-🔹 **Driver Drowsiness Detection**  
-Computer vision-based fatigue detection using CNN & OpenCV.
-
-🔹 **E-Commerce Web Application**  
-Full-stack application using React, Spring Boot, JWT Authentication & MySQL.
-
 ---
 
-## 🐍 Contribution Snake
+
+##  Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yashgoswami-ds/Yashgoswami-ds/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashgoswami-ds&theme=tokyo-night&hide_border=true" />
 </p>
 ---
 
