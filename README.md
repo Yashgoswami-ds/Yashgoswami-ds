@@ -10,7 +10,7 @@ and real-world applications using AI, Java, and modern web technologies.
 </p>
 
 <p align="center">
-🎓 B.Tech CSE Student|💡 Building impactful tech solutions
+🎓 B.Tech CSE Student|💡Building impactful tech solutions
 </p>
 
 <p align="center">
@@ -21,11 +21,11 @@ and real-world applications using AI, Java, and modern web technologies.
 
 ## 👨‍💻 About Me
 
-- 🎓 **3rd Year B.Tech CSE Student** at Uttaranchal University
-- 🤖 Passionate about **AI/ML, Intelligent Automation & Backend Systems**
-- 💻 Building real-world applications using **Java, React, Spring Boot & Python**
-- 🌱 Exploring **Deep Learning, NLP, System Design & Scalable Architectures**
-- 🚀 Interested in solving real-world problems through intelligent software
+-  **3rd Year B.Tech CSE Student** at Uttaranchal University
+-  Passionate about **AI/ML, Intelligent Automation & Backend Systems**
+-  Building real-world applications using **Java, React, Spring Boot & Python**
+-  Exploring **Deep Learning, NLP, System Design & Scalable Architectures**
+-  Interested in solving real-world problems through intelligent software
 
 ---
 
@@ -83,14 +83,11 @@ Full-stack application using React, Spring Boot, JWT Authentication & MySQL.
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashgoswami-ds&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashgoswami-ds&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Yashgoswami-ds/Yashgoswami-ds/output/snake.svg" alt="Snake animation" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
