@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yash Goswami</h1>
+<h1 align="center">Hi, I'm Yash Goswami</h1>
 
 <h3 align="center">
-🚀 AI/ML Developer · Java Backend Developer · Full Stack Builder
+ AI/ML Developer · Java Backend Developer · Full Stack Builder
 </h3>
 
 <p align="center">
@@ -10,11 +10,11 @@ and real-world applications using AI, Java, and modern web technologies.
 </p>
 
 <p align="center">
-🎓 B.Tech CSE Student @ Uttaranchal University | 💡 Building impactful tech solutions
+🎓 B.Tech CSE Student|💡 Building impactful tech solutions
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Java+Backend+Developer;Full+Stack+Developer;Building+Real+World+Projects🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Java+Backend+Developer;Full+Stack+Developer;Building+Real+World+Projects" />
 </p>
 
 ---
