@@ -62,12 +62,18 @@ NumPy • Pandas • Scikit-Learn • Transformers • NLP • Deep Learning
 
 ---
 
-## 📊 LeetCode Stats
-
+<a href="https://leetcode.com/u/yashgoswami-ds/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 <p align="center">
-  <a href="https://leetcode.com/u/yashgoswami-ds/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=yashgoswami-ds&theme=dark" alt="LeetCode Stats" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/yashgoswami-ds?theme=dark&font=Poppins" />
+</p>
+
+---
+
+##  Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashgoswami-ds&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
