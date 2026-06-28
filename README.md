@@ -68,6 +68,13 @@ NumPy • Pandas • Scikit-Learn • Transformers • NLP • Deep Learning
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/yashgoswami-ds?theme=dark&font=Poppins" />
 </p>
+## 📊 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/yashgoswami-ds/">
+    <img src="https://leetcode-badge-sage.vercel.app/badge/yashgoswami-ds?theme=dark" alt="LeetCode Stats"/>
+  </a>
+</p>
 
 ---
 
