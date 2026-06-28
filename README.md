@@ -29,22 +29,22 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,cpp,html,css" />
 </p>
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask" />
 </p>
 
 ### AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 <p>
   NumPy · Pandas · Scikit-Learn · Transformers · NLP · Deep Learning
@@ -52,12 +52,12 @@
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,pycharm" />
 </p>
 
 ---
