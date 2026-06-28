@@ -7,7 +7,7 @@
   and real-world applications using AI, Java, and modern web technologies.
 </p>
 <p align="center">
-  🎓 B.Tech CSE Student | 💡 Building impactful tech solutions
+  B.Tech CSE Student | Building impactful tech solutions
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI%2FML+Developer;Java+Backend+Developer;Full+Stack+Developer;Building+Real+World+Projects" />
@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - **3rd Year B.Tech CSE Student** at Uttaranchal University
 - Passionate about **AI/ML, Intelligent Automation & Backend Systems**
@@ -25,44 +25,52 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,ts,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,cpp,html,css" />
 </p>
 
-### 🌐 Frontend Development
+### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs" />
 </p>
 
-### 🧠 AI / Machine Learning
+### AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 <p>
-  NumPy • Pandas • Scikit-Learn • Transformers • NLP • Deep Learning
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  NumPy · Pandas · Scikit-Learn · Transformers · NLP · Deep Learning
 </p>
 
-### 🧰 Tools & Platforms
+### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,pycharm" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,linux" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yashgoswami-ds?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashgoswami-ds&theme=tokyo-night&hide_border=true" />
@@ -70,7 +78,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="mailto:goswamiyash289@gmail.com">
@@ -79,7 +87,9 @@
   <a href="https://www.linkedin.com/in/yash-goswami/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- 
+  <a href="https://github.com/Yashgoswami-ds">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://leetcode.com/u/yashgoswami-ds/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
@@ -88,5 +98,5 @@
 ---
 
 <p align="center">
-  ⭐ <i>Building intelligent systems, scalable applications, and impactful software solutions.</i>
+  <i>Building intelligent systems, scalable applications, and impactful software solutions.</i>
 </p>
