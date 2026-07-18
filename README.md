@@ -17,7 +17,7 @@
 
 ## About Me
 
-- **3rd Year B.Tech CSE Student** at Uttaranchal University
+- *4th Year B.Tech CSE Student** at Uttaranchal University
 - Passionate about **AI/ML, Intelligent Automation & Backend Systems**
 - Building real-world applications using **Java, React, Spring Boot & Python**
 - Exploring **Deep Learning, NLP, System Design & Scalable Architectures**
